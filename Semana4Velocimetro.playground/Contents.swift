@@ -3,6 +3,7 @@
     Semana 4 - Tarea - Velocimetro Automovil
     deerme.org
 */
+import UIKit
 
 enum Velocidades : Int {
 	case Apagado = 0,
